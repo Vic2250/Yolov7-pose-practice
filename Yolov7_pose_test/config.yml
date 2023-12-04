@@ -1,0 +1,8 @@
+alerting:
+  enabled: true
+model:
+  name: yolov7-w6-pose.pt
+polling:
+  enabled: true
+  interval: 16
+timeout: 2

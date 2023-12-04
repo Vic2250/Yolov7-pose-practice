@@ -1,0 +1,83 @@
+{
+    "地點": {
+        "A8": {
+            "樓層": {
+                "4F": {
+                    "範圍": {
+                        "T1": {
+                            "監視器": {
+                                "全": "",
+                                "Monitor1-L": {
+                                    "ID": 1,
+                                    "URL": "test.mp4",
+                                    "Group": "GP1",
+                                    "Detect": true,
+                                    "Start_X": 707,
+                                    "Start_Y": 2,
+                                    "Width": 795,
+                                    "Height": 1078,
+                                    "RTSP": "rtsp://[IP位置]:[port]/Monitor1-L"
+                                },
+                                "Monitor1-R": {
+                                    "ID": 2,
+                                    "URL": "test.mp4",
+                                    "Group": "GP1",
+                                    "Detect": true,
+                                    "Start_X": 0,
+                                    "Start_Y": 0,
+                                    "Width": 1920,
+                                    "Height": 1080,
+                                    "RTSP": "rtsp://[IP位置]:[port]/Monitor1-R"
+                                },
+                                "Monitor2-L": {
+                                    "ID": 3,
+                                    "URL": "test.mp4",
+                                    "Group": "GP2",
+                                    "Detect": true,
+                                    "Start_X": 0,
+                                    "Start_Y": 0,
+                                    "Width": 1920,
+                                    "Height": 1080,
+                                    "RTSP": "rtsp://[IP位置]:[port]/Monitor2-L"
+                                },
+                                "Monitor2-R": {
+                                    "ID": 4,
+                                    "URL": "test.mp4",
+                                    "Group": "GP2",
+                                    "Detect": true,
+                                    "Start_X": 0,
+                                    "Start_Y": 0,
+                                    "Width": 1920,
+                                    "Height": 1080,
+                                    "RTSP": "rtsp://[IP位置]:[port]/Monitor2-R"
+                                },
+                                "Monitor3-L": {
+                                    "ID": 5,
+                                    "URL": "test.mp4",
+                                    "Group": "GP3",
+                                    "Detect": true,
+                                    "Start_X": 0,
+                                    "Start_Y": 0,
+                                    "Width": 1920,
+                                    "Height": 1080,
+                                    "RTSP": "rtsp://[IP位置]:[port]/Monitor3-L"
+                                },
+                                "Monitor3-R": {
+                                    "ID": 6,
+                                    "URL": "test.mp4",
+                                    "Group": "GP3",
+                                    "Detect": true,
+                                    "Start_X": 0,
+                                    "Start_Y": 0,
+                                    "Width": 1920,
+                                    "Height": 1080,
+                                    "RTSP": "rtsp://[IP位置]:[port]/Monitor3-R"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
